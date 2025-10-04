@@ -29,3 +29,6 @@
          When P(Objective) = Total Flight / Max(P(lambda))
        * Customer Service Waiting -> Servers (C) & SLA time (min)
        * Application Overload -> Utillization (pho)
+
+5. Summary Solution  
+    * Report : 
