@@ -10,12 +10,13 @@
      - Pre-Flight
      - In-Flight
      - Post-Flight  
+
     1.2) Customer PainPoint  
      - Delay Flight & Flight Canceled
      - Customer Service
      - Application Overload  
 
-  2) Find a Problem Formalation  
+  3) Find a Problem Formalation  
      2.1) Parameter  
      2.2) Formula
        - Delay Flight & Flight Canceled -> Poisson
