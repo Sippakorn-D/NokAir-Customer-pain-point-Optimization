@@ -1,26 +1,31 @@
-# Nokair Customer pain point Opmimization
+# Nokair Customer Pain Point Opmimization
   I have some project that my professor in Operation Research has told to find an Optimization for some business that i need to find a solution from customer pain point
 
-  So That Is a Origin to making NokAir Customer Pain Point Project for Discover Persona -> PainPoint -> Solution For making Business Advantaged for the future
-  1) Find Customer Service and Customer Painpoint  
-   1.1) Customer Service  
-     - Awareness
-     - Consideretion
-     - Purchase
-     - Pre-Flight
-     - In-Flight
-     - Post-Flight  
+  So That Is a Origin to making "NokAir Customer Pain Point" Project for Discover Persona -> PainPoint -> Solution For making Business Advantaged for the future
+  
+1. Find Customer Service
+   * Awareness
+   * Consideration
+   * Purchase
+   * Pre-Flight
+   * In-Flight
+   * Post-Flight
 
-   1.2) Customer PainPoint  
-     - Delay Flight & Flight Canceled
-     - Customer Service
-     - Application Overload  
+2. Find Customer Pain Point  
+   * Flight Delay & Flight Canceled
+   * Customer Service Waiting
+   * Application Overload
 
-  3) Find a Problem Formalation  
-     2.1) Parameter  
-     2.2) Formula
-       - Delay Flight & Flight Canceled -> Poisson
-       - Customer Service -> M/M/c
-       - Application Overload -> M/M/1
+3. Make Problem Formulation  
+   * Find Parameter
+   * Formula  
+     * Flight Delay & Flight Canceled -> Poisson Process
+     * Customer Service Waiting -> M/M/c Model
+     * Application Overload -> M/M/1 Model
 
-   
+4. Solving problem  
+   * Expected Variables  
+       * Flight Delay & Flight Canceled -> Total Aircraft x P(Objective)  
+         When P(Objective) = Total Flight / Max(P(lambda))
+       * Customer Service Waiting -> Servers (C) & SLA time (min)
+       * Application Overload -> Utillization (pho)
