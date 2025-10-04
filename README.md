@@ -10,7 +10,7 @@
    - Purchase
    - Pre-Flight
    - In-Flight
-   - Post-Flight<br /X
+   - Post-Flight<br /X>
 1.2)
    - Awareness
    - Consideretion
