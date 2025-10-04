@@ -5,4 +5,11 @@
 
 1) Find Customer Service and Customer Painpoint  
 1.1) Customer Service
+   - Awareness
+   - Consideretion
+   - Purchase
+   - Pre-Flight
+   - In-Flight
+   - Post-Flight
+1.2)
    
