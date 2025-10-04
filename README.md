@@ -17,7 +17,10 @@
      - Application Overload  
 
 2) Find a Problem Formalation  
-    2.1) Parameter
-   2.2)
+     2.1) Parameter  
+     2.2) Formula
+       - Delay Flight & Flight Canceled -> Poisson
+       - Customer Service -> M/M/c
+       - Application Overload -> M/M/1
 
    
