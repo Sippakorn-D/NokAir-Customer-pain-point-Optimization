@@ -1,8 +1,8 @@
 # Nokair Customer pain point Opmimization
   I have some project that my professor in Operation Research has told to find an Optimization for some business that i need to find a solution from customer pain point
 
-  So That Is a Origin to making NokAir Customer Pain Point Project for Discover Persona -> PainPoint -> Solution For making Business Advantaged for the future  
-1) Find Customer Service and Customer Painpoint  
+  So That Is a Origin to making NokAir Customer Pain Point Project for Discover Persona -> PainPoint -> Solution For making Business Advantaged for the future
+  1) Find Customer Service and Customer Painpoint  
    1.1) Customer Service  
      - Awareness
      - Consideretion
@@ -16,7 +16,7 @@
      - Customer Service
      - Application Overload  
 
-2) Find a Problem Formalation  
+  2) Find a Problem Formalation  
      2.1) Parameter  
      2.2) Formula
        - Delay Flight & Flight Canceled -> Poisson
