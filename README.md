@@ -5,18 +5,18 @@
 
 1) Find Customer Service and Customer Painpoint
   
-1.1) Customer Service
-   - Awareness
-   - Consideretion
-   - Purchase
-   - Pre-Flight
-   - In-Flight
-   - Post-Flight
+  1.1) Customer Service
+     - Awareness
+     - Consideretion
+     - Purchase
+     - Pre-Flight
+     - In-Flight
+     - Post-Flight
 
-1.2) Customer PainPoint
-   - Delay Flight & Flight Canceled
-   - Customer Service
-   - Application Overload
+  1.2) Customer PainPoint
+     - Delay Flight & Flight Canceled
+     - Customer Service
+     - Application Overload  
 
 2) Find a Problem Formalation
 
