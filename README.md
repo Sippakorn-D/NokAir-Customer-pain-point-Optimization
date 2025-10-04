@@ -1,4 +1,4 @@
-# Nokair Customer Pain Point Optimization
+# NokAir Customer Pain Point Optimization
   I have some project that my professor in Operation Research has told to find an Optimization for some business that i need to find a solution from customer pain point
 
   So That Is a Origin to making "NokAir Customer Pain Point" Project for Discover "Persona -> PainPoint -> Solution" For making Business Advantaged for the future
