@@ -32,3 +32,4 @@
 
 5. Summary Solution  
     * Report : https://drive.google.com/file/d/1y_OU8mlEZVO7jwO0khyorhqrUjpz8_kr/view?usp=sharing
+    * Slide : https://drive.google.com/file/d/1LvGUHBNWwV83WtrRx28NcECzloHSFCVU/view?usp=sharing
