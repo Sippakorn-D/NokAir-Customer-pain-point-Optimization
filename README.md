@@ -5,7 +5,7 @@
 
 1) Find Customer Service and Customer Painpoint
   
-  1.1) Customer Service
+  1.1) Customer Service  
      - Awareness
      - Consideretion
      - Purchase
@@ -13,7 +13,7 @@
      - In-Flight
      - Post-Flight
 
-  1.2) Customer PainPoint
+  1.2) Customer PainPoint  
      - Delay Flight & Flight Canceled
      - Customer Service
      - Application Overload  
